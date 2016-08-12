@@ -9,3 +9,7 @@ This program allows a robot with 2 continuous servos for the left and right moto
 ## Maze Navigation
 
 This program allows a robot with 2 continuous servoos for the left and right motors, a conventional servo for the "head" of the robot, and an ultrasonic sensor on the head of the robot to navigate a maze.
+
+## Contributions
+
+Thanks to those that have contributed to this repository! Authors can be found at the top of each file.
